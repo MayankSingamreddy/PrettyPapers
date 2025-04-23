@@ -1,3 +1,4 @@
+![PrettyPapers Example](./Readmeimage.png)
 # PrettyPapers
 
 Make research papers more fun to read by adding a stylized background image!
