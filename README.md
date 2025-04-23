@@ -1,5 +1,5 @@
-![PrettyPapers Example](./Readmeimage.png)
 # PrettyPapers
+![PrettyPapers Example](./Readmeimage.png)
 
 Make research papers more fun to read by adding a stylized background image!
 
